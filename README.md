@@ -43,7 +43,7 @@ PM을 맡아 일정과 이슈를 관리하면서, 백엔드로 예약·결제와
 https://github.com/kosaTeam3/PickCar
 
 ### PoseFit — AI 운동 자세 분석 웹 (팀, 진행 중)
-카메라로 운동 자세를 분석해 피드백을 주는 서비스입니다. 최근에 합류해 AI와 풀스택을 경험하고 있습니다.
+카메라로 운동 자세를 분석해 피드백을 주는 서비스입니다. 최근에 시작해 AI와 풀스택을 경험하고 있습니다.
 
 `LangGraph` `Python` `FastAPI` `Next.js` `TypeScript`
 
