@@ -16,34 +16,34 @@ Java와 Spring을 주로 다루는 백엔드 개발자입니다.
 
 - **백엔드:** Java 21, Spring Boot, Spring Data JPA, Spring Security(JWT), Gradle
 - **DB:** PostgreSQL, MySQL, pgvector
-- **AI / 데이터:** Python, FastAPI, LangChain / LangGraph, RAG (공부 중), 데이터 분석
+- **AI / 데이터:** Python, FastAPI, LangChain, LangGraph, RAG, 데이터 분석
 - **그 외:** Docker, Git, Claude Code
-- **프론트:** React, Next.js, TypeScript (필요할 때 직접)
+- **프론트:** React, Next.js, TypeScript
 
 ## 프로젝트
 
 ### KCpilot — KC 인증 사전진단 AI (개인)
 제품 정보를 입력하면 어떤 KC 인증이 필요한지 법령 근거와 함께 알려주는 서비스입니다.
-Spring Boot 백엔드를 중심으로 Next.js 프론트, FastAPI(LangGraph) AI 서비스를 붙인 구조를 혼자 만들었습니다.
+Spring Boot 백엔드를 중심으로 Next.js 프론트, FastAPI(LangGraph) AI 서비스를 붙인 구조를 만들었습니다.
 
 만들면서 가장 고민한 건 AI가 법령에 없는 내용을 그럴듯하게 지어내는 문제였습니다.
 그래서 검색된 법령 텍스트 안에 있는 내용만 근거로 답하게 하고, 판단이 애매할 땐 점수를 지어내는 대신 인증별로 HIGH/MEDIUM/LOW만 표시하도록 했습니다.
 
-`Spring Boot` `LangGraph` `pgvector` `Next.js`
+`LangGraph` `Python` `FastAPI` `Spring Boot` `Java` `PostgreSQL` `pgvector` `Next.js` `TypeScript` 
 https://github.com/hamin-kang/kcpilot
 
 ### PickCar — 공유차량 예약·운영 플랫폼 (팀 5명, PM·백엔드)
 서울 6개 거점 공유차량의 예약 서비스와 운영 관리 시스템을 만든 팀 프로젝트입니다.
-PM을 맡아 일정과 이슈를 관리하면서, 백엔드로 예약·결제와 차량 사고 접수 기능을 구현했습니다. 커밋도 팀에서 가장 많이 했습니다.
+PM을 맡아 일정과 이슈를 관리하면서, 백엔드로 예약·결제와 차량 사고 접수 기능을 구현했습니다.
 
-`Java 21` `Spring Boot` `Spring Security(JWT)` `JPA` `MySQL`
+`Spring Boot` `Java` `JPA` `MySQL`
 https://github.com/kosaTeam3/PickCar
 
 ### PoseFit — AI 운동 자세 분석 웹 (팀, 진행 중)
 카메라로 운동 자세를 분석해 피드백을 주는 서비스입니다. 최근에 합류해 AI와 풀스택을 경험하고 있습니다.
 
-`Next.js` `FastAPI` `TypeScript` `Docker`
+`LangGraph` `Python` `FastAPI` `Next.js` `TypeScript` 
 https://github.com/Korea-AI-Organization-Developer/posefit
 
 ## 연락
-hwaminn9185@gmail.com
+kyden5386@gmail.com
