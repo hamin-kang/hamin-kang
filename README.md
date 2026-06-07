@@ -14,7 +14,7 @@ Java와 Spring을 주로 다루는 백엔드 개발자입니다.
 
 ## 기술 스택
 
-- **Backend:** Java 21, Spring Boot, Spring Data JPA, Spring Security(JWT), Gradle
+- **Backend:** Java, Spring Boot, Spring Data JPA, Spring Security(JWT), Gradle
 - **Database:** PostgreSQL, MySQL, pgvector
 - **AI / Data:** Python, FastAPI, LangChain, LangGraph, RAG
 - **Frontend:** React, Next.js, TypeScript
