@@ -55,9 +55,9 @@ LangGraph 기반 포즈 분석 파이프라인 일부를 구현했습니다.
 
 **→ 서비스(구글 로그인 O): https://scholarship-compression-peoples-photo.trycloudflare.com**
 
-**→ 서비스: http://116.125.141.65.nip.io:13001/**
+**→ 서비스: http://116.125.141.65:13000/**
 
-**→ 관리자 페이지: http://116.125.141.65.nip.io:13001/**
+**→ 관리자 페이지: http://116.125.141.65:13001/**
 
 `LangGraph` `Python` `FastAPI` `ViTPose` `ChromaDB` `Next.js` `TypeScript` `MySQL`
 
