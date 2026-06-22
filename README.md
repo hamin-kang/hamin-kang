@@ -46,10 +46,14 @@ PM을 맡아 일정과 이슈를 관리하면서, 백엔드로 예약·결제와
 
 https://github.com/kosaTeam3/PickCar
 
-### PoseFit — AI 운동 자세 분석
-카메라로 운동 자세를 분석해 피드백을 주는 서비스입니다.
+### PoseFit — AI 운동 자세 분석 (팀 5명, 백엔드·프론트)
+웹캠으로 운동하면 포즈 추정 모델(ViTPose-Base)이 관절 키포인트를 실시간 추출하고,
+정답 영상과 비교해 점수와 언어 피드백을 제공하는 서비스입니다.
 
-`LangGraph` `Python` `FastAPI` `Next.js` `TypeScript`
+백엔드(FastAPI + SQLAlchemy async) 전반과 Next.js 프론트엔드를 담당했고,
+LangGraph 기반 포즈 분석 파이프라인 일부를 구현했습니다.
+
+`LangGraph` `Python` `FastAPI` `ViTPose` `ChromaDB` `Next.js` `TypeScript` `MySQL`
 
 https://github.com/Korea-AI-Organization-Developer/posefit
 
