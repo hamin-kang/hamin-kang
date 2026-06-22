@@ -52,7 +52,9 @@ https://github.com/kosaTeam3/PickCar
 
 백엔드(FastAPI + SQLAlchemy async) 전반과 Next.js 프론트엔드를 담당했고,
 LangGraph 기반 포즈 분석 파이프라인 일부를 구현했습니다.
+
 **→ 서비스: http://116.125.141.65.nip.io:13000/**
+
 **→ 관리자 페이지: http://116.125.141.65.nip.io:13001/**
 
 `LangGraph` `Python` `FastAPI` `ViTPose` `ChromaDB` `Next.js` `TypeScript` `MySQL`
