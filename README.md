@@ -49,6 +49,8 @@ LangGraph 기반 포즈 분석 파이프라인 일부를 구현했습니다.
 
 **→ 관리자 페이지: https://admin.posefit.org/login**
 
+https://github.com/Korea-AI-Organization-Developer/posefit
+
 `LangGraph` `Python` `FastAPI` `ViTPose` `ChromaDB` `Next.js` `TypeScript` `MySQL`
 
 ### PickCar — 공유차량 예약·운영 플랫폼 (팀 5명, PM·백엔드)
@@ -58,8 +60,6 @@ PM을 맡아 일정과 이슈를 관리하면서, 백엔드로 예약·결제와
 `Spring Boot` `Java` `JPA` `MySQL`
 
 https://github.com/kosaTeam3/PickCar
-
-https://github.com/Korea-AI-Organization-Developer/posefit
 
 ## 연락
 - Email: kyden5386@gmail.com
