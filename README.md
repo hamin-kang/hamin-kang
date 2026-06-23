@@ -51,7 +51,7 @@ LangGraph 기반 포즈 분석 파이프라인 일부를 구현했습니다.
 
 https://github.com/Korea-AI-Organization-Developer/posefit
 
-`LangGraph` `Python` `FastAPI` `ViTPose` `ChromaDB` `Next.js` `TypeScript` `MySQL`
+`LangGraph` `Python` `FastAPI` `MediaPipe` `ChromaDB` `Next.js` `TypeScript` `MySQL`
 
 ### PickCar — 공유차량 예약·운영 플랫폼 (팀 5명, PM·백엔드)
 서울 6개 거점 공유차량의 예약 서비스와 운영 관리 시스템을 만든 팀 프로젝트입니다.
